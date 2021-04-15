@@ -5,7 +5,7 @@ DIY CNC Kit
 The DIY CNC Kit is a modular gantry-style desktop CNC machine designed for digital fabrication in an at-home setting.  The kit is designed (and encouraged) to be customized, modified and adapted to suit the needs of a particular fabrication process. The kit includes the comoponents needed to fabricated with a 2-axis gantry system, with provisions for a customized third axis provided in the design of the machine.   
 For questions, comments, issues, or feedback email [Zach Seibold](mailto:zseibold@gmail.com?subject=[DIY_CNC_Kit]) 
 ## Disclaimer
-If you are interested in building this machine you can access the relevant files and resources here.  The information is provided for general guidance only. Use them at your own risk.  Links to third-party websites are provided as a convenience - we encourage you to read the disclaimers provided on those websites.  
+If you are interested in building this machine you can access the relevant files and resources here.  The information is provided for general guidance only. Use it at your own risk.  Links to third-party websites are provided as a convenience - we encourage you to read the disclaimers provided on those websites.  
 This work may be reproduced, modified, distributed, performed, and displayed for any purpose, but must acknowledge the creators of the DIY CNC Kit. Copyright is retained and must be preserved. The work is provided as is; no warranty is provided, and users accept all liability.
 Please also note: The DIY CNC Kit is under active development and refinement. Please check this repository often for design modifications and additional information.
 ## Bill of Materials
