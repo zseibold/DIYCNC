@@ -36,7 +36,9 @@ DIY CNC Kit
 The following resources outline some of the steps needed to program and assemble the various components needed to send GCode to the machine: 
 ##### GRBL
 grbl is a GCode interpreter for the Aruduino IDE
+
 https://github.com/grbl/grbl/wiki - The DIY CNC uses an older version of the grbl software as compatible hardware is less expensive and more readily available.
+
 https://github.com/grbl/grbl/wiki/Compiling-Grbl - compiling instructions
 ##### DRV8825 Stepper Driver
 https://www.youtube.com/watch?v=89BHS9hfSUk&feature=youtu.be - This online tutorial by Pololu (the manufacturer of the DRV8825 driver) details the process for setting the current limit on the DRV8825 stepper driver. 
@@ -45,6 +47,7 @@ https://blog.protoneer.co.nz/arduino-cnc-shield-v3-00-assembly-guide/ - Protonee
 https://www.handsontec.com/dataspecs/module/cnc-3axis-shield.pdf - Specs the shield in the BoM
 ## Acknowledgements
 The DIY CNC kit and associated documentation was created for the Fall 2020 edition of *Material Systems: Digital Design and Fabrication*, a course taught at the Harvard University Graduate School of Design by Nathan King and Zach Seibold, and TA'ed by Erin Hunt.  Burton Legeyt contributed to the design and production of the custom aluminum mounting brackets. More information regarding the course and the associated student projects can be found at the links below: 
+
 https://www.gsd.harvard.edu/course/material-systems-digital-design-and-fabrication-fall-2020/
 http://sci6317.online
 ## References
