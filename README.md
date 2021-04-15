@@ -8,6 +8,8 @@ For questions, comments, issues, or feedback email [Zach Seibold](mailto:zseibol
 If you are interested in building this machine you can access the relevant files and resources here.  The information is provided for general guidance only. Use it at your own risk.  Links to third-party websites are provided as a convenience - we encourage you to read the disclaimers provided on those websites.  
 This work may be reproduced, modified, distributed, performed, and displayed for any purpose, but must acknowledge the creators of the DIY CNC Kit. Copyright is retained and must be preserved. The work is provided as is; no warranty is provided, and users accept all liability.
 Please also note: The DIY CNC Kit is under active development and refinement. Please check this repository often for design modifications and additional information.
+## License
+Except where otherwise noted, content on this project is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/). See [License](LICENSE.md).
 ## Bill of Materials
 |  | Item # | Item | Detailed Description  | Vendor | QTY | Cost/ Unit | Total  Cost | Link | Notes |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
