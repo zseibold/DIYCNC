@@ -2,7 +2,9 @@
 DIY CNC Kit
 ![DIY CNC Kit](assets/01_headerImage.png)
 ## Description
-## Features
+The DIY CNC Kit is a modular gantry-style desktop CNC machine designed for digital fabrication in an at-home setting.  The kit is designed (and encouraged) to be customized, modified and adapted to suit the needs of a particular fabrication process.  
+## Disclaimer
+If you are interested in building this machine you can access the relevant files and resources here.  The information is provided for general guidance only. Use them at your own risk.  Links to third-party websites are provided as a convenience - we encourage you to read the disclaimers provided on those websites.  
 ## Bill of Materials
 |  | Item # | Item | Detailed Description  | Vendor | QTY | Cost/ Unit | Total  Cost | Link | Notes |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -47,4 +49,3 @@ https://www.handsontec.com/dataspecs/module/cnc-3axis-shield.pdf - Specs for the
 The DIY CNC kit and associated documentation was created for the Fall 2020 edition of *Material Systems: Digital Design and Fabrication*, a course taught at the Harvard University Graduate School of Design by Nathan King and Zach Seibold, and TA'ed by Erin Hunt.  Burton Legeyt contributed to the design and production of the custom aluminum mounting brackets. More information regarding the course and the associated student projects can be found at the links below:<br>
 https://www.gsd.harvard.edu/course/material-systems-digital-design-and-fabrication-fall-2020/<br>
 http://sci6317.online
-## References
